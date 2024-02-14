@@ -1,0 +1,145 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+/*   font-family: "Protest Guerrilla", sans-serif;
+ */
+.nav-link {
+    color: white !important;
+    font-size: 20px;
+    font-family: "Montserrat", sans-serif;
+    opacity: 0.9;
+    font-weight: 600 !important;
+
+}
+
+.nav-link:hover {
+    color: #FFB000 !important;
+    border: 22px;
+    font-size: 23px;
+    font-family: "Montserrat", sans-serif;
+}
+
+.navbar-brand {
+    color: white !important;
+    font-family: "Roboto Slab", serif;
+    letter-spacing: 2px;
+    font-size: 26px !important;
+    font-weight: 700 !important;
+}
+
+.more-info-section {
+    background-attachment: fixed;
+    background-image: linear-gradient(rgba(22, 22, 22, 0.7), rgba(22, 22, 22, 0.9)), url("./project_4_img/head-back.jpg");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    padding: 6rem 0;
+    overflow: hidden;
+}
+
+.more-info-section .img-section {
+    position: relative;
+}
+
+.more-info-section .img-section img {
+    width: 70%;
+}
+
+#Ammeen {
+    font-family: "Montserrat", sans-serif;
+}
+
+#about_me {
+    font-family: "Montserrat", sans-serif;
+    font-weight: 100 !important;
+}
+
+#login {
+    color: black;
+    width: 100px;
+    height: 40px;
+    border-radius: 25px;
+    font-size: 14px;
+    font-family: "Montserrat", sans-serif;
+    font-weight: 800 !important;
+
+}
+
+#signup {
+    background-color: #FFB000;
+    width: 100px;
+    height: 40px;
+    border-radius: 25px;
+    color: white;
+    font-weight: 800 !important;
+    font-size: 14px;
+    font-family: "Montserrat", sans-serif;
+
+}
+#login:hover{
+    font-size: 18px;
+}
+#benefits{
+    font-family: "Montserrat", sans-serif;
+}
+#main_benefits{
+    color:#FFB000 ;
+    font-family: "Montserrat", sans-serif;
+   font-weight: 800;
+}
+#web-development  {
+    font-family: "Montserrat", sans-serif;
+      font-size: 22px;
+      font-weight: 600;
+}
+#web-development-para{
+    font-family: "Montserrat", sans-serif;
+
+}
+#apply-btn{
+    border-radius: 20px;
+    width: 200px;
+    color: black;
+    font-family: "Montserrat", sans-serif;
+    font-weight: 800;
+}
+#apply-btn:hover{
+    font-size: 20px;
+}
+#paren_div{
+    background-color: whitesmoke;
+    padding: 20px;
+    border-radius: 30px;
+        box-shadow: 0px 0px 0px 0px rgba(0,0,0,0.5);
+}
+#paren_div:hover{
+    box-shadow: 0px 0px 10px 0px rgba(0,0,0,0.5);
+}
+#courses{
+    color: #FFB000;
+    font-family: "Montserrat", sans-serif;
+    font-size: 23px;
+    font-weight: 700;
+    margin-right: 5px;
+}
+#courses-para{
+    font-family: "Montserrat", sans-serif;
+    color: black;
+    margin-left: 10px;
+    margin-top: 100px !important;
+}
+#Form_first_name{
+    font-family: "Montserrat", sans-serif;
+    padding-left: 20px;   
+    height: 40px;
+    border-radius: 20px;
+    border: 1px solid;
+}
+#firstname{
+    font-size: 20px;
+    font-family: "Montserrat", sans-serif;
+    margin-right: 10px;
+
+}
